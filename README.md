@@ -5,8 +5,8 @@
 |      仓库       | 生命周期 |                        仓库访问量                        | 仓库当前状态 |
 | :-------------: | :--------------------: | :----------------------------------------------------------: | :-------------: |
 | [Typora](https://github.com/743859910/Typora) |   2025.03.05   | ![Visitor Count](https://profile-counter.glitch.me/{Typora}/count.svg) | 可用 |
-| [Typora-Unlocker](https://github.com/743859910/Typora-Unlocker) | 2025.01.25-2025.02.25 | ![Visitor Count](https://profile-counter.glitch.me/{Typora-Unlocker}/count.svg) | [由于DMCA删除，仓库已不可用。](https://github.com/github/dmca/blob/master/2025/02/2025-02-25-typora.md) |
-| [Typora_Unlocker](https://github.com/743859910/Typora_Unlocker) | 2024.01.29-2024.12.16 | ![Visitor Count](https://profile-counter.glitch.me/{Typora_Unlocker}/count.svg) | [由于DMCA删除，仓库已不可用。](https://github.com/github/dmca/blob/master/2024/12/2024-12-16-typora.md) |
+| [Typora-Unlocker](https://github.com/743859910/Typora-Unlocker) | 2025.01.25-2025.02.25 | ![Visitor Count](https://profile-counter.glitch.me/{Typora-Unlocker}/count.svg) | [DMCA](https://github.com/github/dmca/blob/master/2025/02/2025-02-25-typora.md) |
+| [Typora_Unlocker](https://github.com/743859910/Typora_Unlocker) | 2024.01.29-2024.12.16 | ![Visitor Count](https://profile-counter.glitch.me/{Typora_Unlocker}/count.svg) | [DMCA](https://github.com/github/dmca/blob/master/2024/12/2024-12-16-typora.md) |
 
 ---
 
