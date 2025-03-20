@@ -2,14 +2,6 @@
 
 ---
 
-|      仓库       | 生命周期 |                        仓库访问量                        | 仓库当前状态 |
-| :-------------: | :--------------------: | :----------------------------------------------------------: | :-------------: |
-| [Typora](https://github.com/743859910/Typora) |   2025.03.05   | ![Visitor Count](https://profile-counter.glitch.me/{Typora}/count.svg) | 可用 |
-| [Typora-Unlocker](https://github.com/743859910/Typora-Unlocker) | 2025.01.25-2025.02.25 | ![Visitor Count](https://profile-counter.glitch.me/{Typora-Unlocker}/count.svg) | [由于 DMCA 删除，仓库已不可用。](https://github.com/github/dmca/blob/master/2025/02/2025-02-25-typora.md) |
-| [Typora_Unlocker](https://github.com/743859910/Typora_Unlocker) | 2024.01.29-2024.12.16 | ![Visitor Count](https://profile-counter.glitch.me/{Typora_Unlocker}/count.svg) | [由于 DMCA 删除，仓库已不可用。](https://github.com/github/dmca/blob/master/2024/12/2024-12-16-typora.md) |
-
----
-
 <p align="center"><a href=""><img src="https://typoraio.cn/img/favicon-128.png" alt="logo" width="300" /></a></p>
 <p align="center"><b>Typora</b></p>
 <p align="center"><b>一款 Markdown 编辑器和阅读器</b></p>
@@ -31,7 +23,7 @@ Typora 官网：https://typora.io/
 
 Typora 中国官网：https://typoraio.cn/
 
-Typora 支持的版本：| 1.0.0 - 1.9.5 | 
+Typora 支持的版本： | 1.0.0 - 1.9.5 | 
 
 ---
 
@@ -47,10 +39,22 @@ Typora 支持的版本：| 1.0.0 - 1.9.5 |
 
 ---
 
+|      仓库       | 生命周期 |                        仓库访问量                        | 仓库当前状态 |
+| :-------------: | :--------------------: | :----------------------------------------------------------: | :-------------: |
+| [Typora](https://github.com/743859910/Typora) |   2025.03.05   | ![Visitor Count](https://profile-counter.glitch.me/{Typora}/count.svg) | 可用 |
+| [Typora-Unlocker](https://github.com/743859910/Typora-Unlocker) | 2025.01.25-2025.02.25 | ![Visitor Count](https://profile-counter.glitch.me/{Typora-Unlocker}/count.svg) | [由于 DMCA 删除，仓库已不可用。](https://github.com/github/dmca/blob/master/2025/02/2025-02-25-typora.md) |
+| [Typora_Unlocker](https://github.com/743859910/Typora_Unlocker) | 2024.01.29-2024.12.16 | ![Visitor Count](https://profile-counter.glitch.me/{Typora_Unlocker}/count.svg) | [由于 DMCA 删除，仓库已不可用。](https://github.com/github/dmca/blob/master/2024/12/2024-12-16-typora.md) |
+
+---
+
 | 官网原版安装包 | DMG | (64bit)EXE | (32bit)EXE | (ARM)EXE | (64bit)DEB | (64bit)TAR | (ARM)DEB | (ARM)TAR | all |
 | :-------------------: | :-------: | :---------------: | :---------------: | :-------------: | :-------------: | :-------------: | :-----------: | :-----------: | :-------------------: |
 | [Typora 官网](https://typora.io/) | [MacOS](https://download.typora.io/mac/Typora-1.9.4.dmg) | [Windows](https://download.typora.io/windows/typora-setup-x64-1.9.5.exe) | [Windows](https://download.typora.io/windows/typora-setup-ia32-1.9.5.exe) | [Windows](https://download.typora.io/windows/typora-setup-arm64-1.9.5.exe) | [Linux](https://download.typora.io/linux/typora_1.9.3_amd64.deb) | [Linux](https://download.typora.io/linux/Typora-linux-x64-1.9.3.tar.gz) | [Linux](https://download.typora.io/linux/typora_1.9.3_arm64.deb) | [Linux](https://download.typora.io/linux/Typora-linux-arm64-1.9.3.tar.gz) | [历史版本](https://typora.io/releases/all) |
 | [Typora 中国官网](https://typoraio.cn/) | [MacOS](https://download2.typoraio.cn/mac/Typora-1.9.4.dmg) | [Windows](https://download2.typoraio.cn/windows/typora-setup-x64-1.9.5.exe) | [Windows](https://download2.typoraio.cn/windows/typora-setup-ia32-1.9.5.exe) | [Windows](https://download2.typoraio.cn/windows/typora-setup-arm64-1.9.5.exe) | [Linux](https://download2.typoraio.cn/linux/typora_1.9.3_amd64.deb) | [Linux](https://download2.typoraio.cn/linux/Typora-linux-x64-1.9.3.tar.gz) | [Linux](https://download2.typoraio.cn/linux/typora_1.9.3_arm64.deb) | [Linux](https://download2.typoraio.cn/linux/Typora-linux-arm64-1.9.3.tar.gz) | [历史版本](https://typoraio.cn/releases/all) |
+
+---
+
+# 如果您觉得本工具对您有帮助，不妨在右上角点亮一颗小星星，以示鼓励！
 
 ---
 
