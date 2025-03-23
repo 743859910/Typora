@@ -27,26 +27,6 @@ Typora 支持的版本： | 1.0.0 - 1.9.5 |
 
 ---
 
-# 关于最新版本
-
-### 建议支持官方正版或停留在 1.9.5 版本并关闭自动检查更新。
-
-### 2025年02月21日 亲测 Typora 官网 1.10.6 最新版已无法激活
-
-### 2025年03月05日 亲测 Typora 官网 1.10.8 最新版已无法激活
-
-### 请打开左上角 文件→偏好设置→通用→更新→把 自动检查更新 和 更新至开发版 前面的勾去掉。
-
----
-
-|      仓库       | 生命周期 |                        仓库访问量                        | 仓库当前状态 |
-| :-------------: | :--------------------: | :----------------------------------------------------------: | :-------------: |
-| [Typora](https://github.com/743859910/Typora) |   2025.03.05   | ![Visitor Count](https://profile-counter.glitch.me/{Typora}/count.svg) | 可用 |
-| [Typora-Unlocker](https://github.com/743859910/Typora-Unlocker) | 2025.01.25-2025.02.25 | ![Visitor Count](https://profile-counter.glitch.me/{Typora-Unlocker}/count.svg) | [由于 DMCA 删除，仓库已不可用。](https://github.com/github/dmca/blob/master/2025/02/2025-02-25-typora.md) |
-| [Typora_Unlocker](https://github.com/743859910/Typora_Unlocker) | 2024.01.29-2024.12.16 | ![Visitor Count](https://profile-counter.glitch.me/{Typora_Unlocker}/count.svg) | [由于 DMCA 删除，仓库已不可用。](https://github.com/github/dmca/blob/master/2024/12/2024-12-16-typora.md) |
-
----
-
 | 官网原版安装包 | DMG | (64bit)EXE | (32bit)EXE | (ARM)EXE | (64bit)DEB | (64bit)TAR | (ARM)DEB | (ARM)TAR | all |
 | :-------------------: | :-------: | :---------------: | :---------------: | :-------------: | :-------------: | :-------------: | :-----------: | :-----------: | :-------------------: |
 | [Typora 官网](https://typora.io/) | [MacOS](https://download.typora.io/mac/Typora-1.9.4.dmg) | [Windows](https://download.typora.io/windows/typora-setup-x64-1.9.5.exe) | [Windows](https://download.typora.io/windows/typora-setup-ia32-1.9.5.exe) | [Windows](https://download.typora.io/windows/typora-setup-arm64-1.9.5.exe) | [Linux](https://download.typora.io/linux/typora_1.9.3_amd64.deb) | [Linux](https://download.typora.io/linux/Typora-linux-x64-1.9.3.tar.gz) | [Linux](https://download.typora.io/linux/typora_1.9.3_arm64.deb) | [Linux](https://download.typora.io/linux/Typora-linux-arm64-1.9.3.tar.gz) | [历史版本](https://typora.io/releases/all) |
