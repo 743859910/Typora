@@ -60,7 +60,7 @@ Typora 支持的版本： | 1.0.0 - 1.9.5 |
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{Typora}/count.svg)
+![name](https://api.likepoems.com/counter/get/@Typora)
 
 ---
 
