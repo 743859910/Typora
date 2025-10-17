@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center"><a href=""><img src="https://raw.gitmirror.com/743859910/Typora/master/logo.webp" alt="logo" width="300" /></a></p>
+<p align="center"><a href=""><img src="logo.webp" alt="logo" width="300" /></a></p>
 <p align="center"><b>Typora</b></p>
 <p align="center"><b>一款 Markdown 编辑器和阅读器</b></p>
 <p align="center">
@@ -39,23 +39,23 @@ Typora 支持的版本： | 1.0.0 - 1.9.5 |
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/Typora/master/img/image/images/1.webp">
+  <img src="img/image/images/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/Typora/master/img/image/images/2.webp">
+  <img src="img/image/images/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/Typora/master/img/image/images/3.webp">
+  <img src="img/image/images/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/Typora/master/img/image/images/4.webp">
+  <img src="img/image/images/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/Typora/master/img/image/images/5.webp">
+  <img src="img/image/images/5.webp">
 </p>
 
 ---
