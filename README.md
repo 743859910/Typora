@@ -60,10 +60,6 @@ Typora 支持的版本： | 1.0.0 - 1.9.5 |
 
 ---
 
-![name](https://api.likepoems.com/counter/get/@Typora)
-
----
-
 昵称：我只是你的过客
 
 个性签名：每个人都是每个人的过客
