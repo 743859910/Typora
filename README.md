@@ -70,6 +70,6 @@ Typora 支持的版本： | 1.0.0 - 1.9.5 |
 
 [MIT License](https://github.com/743859910/Typora/blob/master/LICENSE)
 
-Copyright © 2008 - 2025 743859910. All Rights Reserved. 我只是你的过客工作室. 版权所有
+Copyright © 2008 - 2026 743859910. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
 ---
